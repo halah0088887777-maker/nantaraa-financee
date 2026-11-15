@@ -1,0 +1,13 @@
+NANTAA FINANCE — Aplikasi catatan keuangan offline
+
+CARA PAKAI DI ANDROID
+1. Ekstrak file ZIP ini.
+2. Agar bisa dipasang seperti aplikasi, unggah folder ini ke hosting HTTPS statis (misalnya GitHub Pages) satu kali.
+3. Buka alamatnya di Chrome Android, pilih menu ⋮ > Tambahkan ke layar utama / Install app.
+4. Setelah aplikasi terpasang dan file berhasil dicache, aplikasi dapat dibuka offline.
+
+CATATAN PENTING
+- Ini adalah aplikasi web progresif (PWA), bukan APK native.
+- Data transaksi disimpan di penyimpanan lokal browser/perangkat (localStorage), bukan server.
+- Jangan hapus data browser sebelum mengekspor cadangan.
+- Ekspor cadangan JSON secara berkala; CSV untuk membuka transaksi di spreadsheet.

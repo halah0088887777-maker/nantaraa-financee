@@ -1,0 +1,9 @@
+{
+  "name": "NANTAA FINANCE",
+  "short_name": "NANTAA",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0d1310",
+  "theme_color": "#101713",
+  "description": "Catatan keuangan pribadi offline"
+}
